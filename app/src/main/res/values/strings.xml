@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Language Translator</string>
+    <string-array name="from_spinner">
+        <item>From</item>
+        <item>English</item>
+        <item>Mandarin Chinese</item>
+        <item>Hindi</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Arabic</item>
+        <item>Bengali</item>
+        <item>Russian</item>
+        <item>Portuguese</item>
+        <item>Indonesian</item>
+    </string-array>
+
+    <string name="text">
+     আমি তোমাকে ভালোবাসি না
+    </string>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
